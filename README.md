@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wrapped-tight-in-silk/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Wrapped Tight In Silk](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-tight-in-silk/) |
+| **Get License** | [Get License For Wrapped Tight In Silk](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-tight-in-silk/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire pulling me right in
+> A gentle magic that I can't outrun
+> I want to trace the shadows on your skin
+> Wrapped tight in silk until the morning sun
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
