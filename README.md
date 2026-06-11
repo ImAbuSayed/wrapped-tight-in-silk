@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/wrapped-tight-in-silk/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Wrapped Tight In Silk](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-tight-in-silk/) |
+| **Get License** | [Request Licensing for Wrapped Tight In Silk](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/wrapped-tight-in-silk/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `78c073a01f2ab6eaa968e65b1692bfd409a8456dcb342d2634a6320e10da06d8` |
 | **Timestamp** | June 11, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
